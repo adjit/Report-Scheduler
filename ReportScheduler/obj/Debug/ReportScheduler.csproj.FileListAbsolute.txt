@@ -15,3 +15,18 @@ E:\E-Documents\Visual Studio 2015\Projects\Report Scheduler\ReportScheduler\obj\
 E:\E-Documents\Visual Studio 2015\Projects\Report Scheduler\ReportScheduler\obj\Debug\ReportScheduler.csproj.GenerateResource.Cache
 E:\E-Documents\Visual Studio 2015\Projects\Report Scheduler\ReportScheduler\obj\Debug\ReportScheduler.exe
 E:\E-Documents\Visual Studio 2015\Projects\Report Scheduler\ReportScheduler\obj\Debug\ReportScheduler.pdb
+C:\Users\Aaron\Documents\Visual Studio 2015\Projects\Report-Scheduler\ReportScheduler\bin\Debug\ReportScheduler.exe.config
+C:\Users\Aaron\Documents\Visual Studio 2015\Projects\Report-Scheduler\ReportScheduler\obj\Debug\ReportScheduler.exe
+C:\Users\Aaron\Documents\Visual Studio 2015\Projects\Report-Scheduler\ReportScheduler\obj\Debug\ReportScheduler.pdb
+C:\Users\Aaron\Documents\Visual Studio 2015\Projects\Report-Scheduler\ReportScheduler\obj\Debug\ReportScheduler.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Documents\Visual Studio 2015\Projects\Report-Scheduler\ReportScheduler\obj\Debug\ReportScheduler.ReportSchedulerForm.resources
+C:\Users\Aaron\Documents\Visual Studio 2015\Projects\Report-Scheduler\ReportScheduler\obj\Debug\ReportScheduler.Properties.Resources.resources
+C:\Users\Aaron\Documents\Visual Studio 2015\Projects\Report-Scheduler\ReportScheduler\obj\Debug\ReportScheduler.csproj.GenerateResource.Cache
+C:\Users\Aaron\Documents\Visual Studio 2015\Projects\Report-Scheduler\ReportScheduler\bin\Debug\ReportScheduler.exe
+C:\Users\Aaron\Documents\Visual Studio 2015\Projects\Report-Scheduler\ReportScheduler\bin\Debug\ReportScheduler.pdb
+C:\Users\Aaron\Documents\Visual Studio 2015\Projects\Report-Scheduler\ReportScheduler\bin\Debug\Microsoft.Win32.TaskScheduler.xml
+C:\Users\Aaron\Documents\Visual Studio 2015\Projects\Report-Scheduler\ReportScheduler\bin\Debug\de\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\Aaron\Documents\Visual Studio 2015\Projects\Report-Scheduler\ReportScheduler\bin\Debug\es\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\Aaron\Documents\Visual Studio 2015\Projects\Report-Scheduler\ReportScheduler\bin\Debug\fr\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\Aaron\Documents\Visual Studio 2015\Projects\Report-Scheduler\ReportScheduler\bin\Debug\it\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\Aaron\Documents\Visual Studio 2015\Projects\Report-Scheduler\ReportScheduler\bin\Debug\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
